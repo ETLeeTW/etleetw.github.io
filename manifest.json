@@ -1,11 +1,11 @@
 {
-    "name": "website",
-    "short_name": "website",
+    "name": "Timothy Lee's Website",
+    "short_name": "Timothy's Website",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#212121",
+    "theme_color": "#212121",
+    "description": "Timothy Lee's website. 李恩霆的個人網站。",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
