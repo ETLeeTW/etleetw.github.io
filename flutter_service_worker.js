@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a5569b0d1b66d32e9015cf80eb184b84",
-"assets/AssetManifest.bin.json": "35d02efc9d158f8d20696ca197c6d130",
-"assets/AssetManifest.json": "5fb5e151384e1daf03569d1c68bc8c22",
+const RESOURCES = {"assets/AssetManifest.bin": "b3f1701c9dce7c28e3abe7d1bb061e41",
+"assets/AssetManifest.bin.json": "421c5a1372117da7efaa1d8d818d215c",
+"assets/AssetManifest.json": "34bf654bb55ac0223e258ada9480fdac",
 "assets/assets/images/home_1.jpg": "760342139c8927a268d5b468d11b7eca",
 "assets/assets/images/home_2.jpg": "3853776f12bddeafaaea32f651af7b6e",
 "assets/assets/images/home_3.jpg": "288bb0e4658b5aeafd09cb31ad988765",
@@ -13,7 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a5569b0d1b66d32e9015cf80eb184b84
 "assets/assets/project_details/ATcar.md": "d01db1267b9e71a74da8aec8bb869c88",
 "assets/assets/project_details/HandmakeArduino.md": "1569cc2915f47ae15dfcd8ba1bef2a59",
 "assets/assets/project_details/personalWebsite.md": "660e7ad891c56128955cf7d2d32c8129",
-"assets/assets/project_details/photography%2520copy.md": "47b649082611f69570c7f08c7bfa1b96",
+"assets/assets/project_details/photography.md": "47b649082611f69570c7f08c7bfa1b96",
 "assets/assets/project_details/smartcar.md": "aa681a2b66a96da6ae43de7bc93977c9",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
 "assets/fonts/MaterialIcons-Regular.otf": "2f9639cdb322f72587f5e0e003645437",
@@ -37,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a5569b0d1b66d32e9015cf80eb184b84
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "d1bd79d50d4e403c5c8d13c34ef0fce8",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "95aa2d7e9e7dcc14b36c12dd84cdd4c3",
+"flutter_bootstrap.js": "d080bcff8f9b227f847b88540579b1bd",
 "icons/Icon-192.png": "7f70c0f8c2eca7e935f36ebcf7acd529",
 "icons/Icon-512.png": "666b259c21e4ca5e19e9c8a4626c3e41",
 "icons/Icon-maskable-192.png": "7f70c0f8c2eca7e935f36ebcf7acd529",
